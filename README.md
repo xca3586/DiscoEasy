@@ -1,4 +1,4 @@
-Wiki Discoeasy  
+Wiki Discoeasy  by Dagoma  
 https://www.dagoma3d.com/imprimante-3d-disco-dagoma  
 https://github.com/dagoma3d/STL-DiscoEasy200-Official  
 
