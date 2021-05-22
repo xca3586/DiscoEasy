@@ -8,6 +8,8 @@ https://www.lesimprimantes3d.fr/forum/topic/10457-dagoma-bltouch/
 
 # 3D  Touch (aliexpress)  
 
+Ce 3D Touch est compatible BLTouchdans le firmaware Marlin v2.8.  
+
 ## Notice  
 
 ![U22f7cef34e334f5cb18c74ced5220889X](../images/U22f7cef34e334f5cb18c74ced5220889X.webp)
@@ -23,7 +25,10 @@ Il faut connecter:
 - la prise avec les deux fils noir(GND) et blanc(SIGNAL) sur **endstop Z-**
 - la prise avec les trois fils vert(GND)/rouge(+5V)/jaune(signal) sur D11 (MKS Base 1.5)
 
-Attention sur d'autres cartes la connectiques est différente:
+Bien vérifier le brnachement avant allumage.
+Puis tester le fonctionnement via les menus à l'écran.
+
+Attention sur d'autres cartes la connectique est différente:
 la prise avec les trois fils rouge(+5V)/vert(GND)/jaune(signal)
 
 ![](../images/IMG_8641.JPG)
