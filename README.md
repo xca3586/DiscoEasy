@@ -13,6 +13,7 @@ https://github.com/dagoma3d/STL-DiscoEasy200-Official
   - [Firmware Dagoma](#firmware-dagoma)
   - [Marlin 2.x](#marlin-2x)
 - [Améliorations](#améliorations)
+  - [Mes améliorations](#mes-améliorations)
   - [Forum sur la DiscoEasy](#forum-sur-la-discoeasy)
   - [Ecran](#ecran)
   - [Dérouleur de filament](#dérouleur-de-filament)
@@ -36,7 +37,8 @@ https://github.com/dagoma3d/STL-DiscoEasy200-Official
 ## [Marlin 2.x](/logiciel/marlinfw2.x.md)
 
 # Améliorations
-## [Forum sur la DiscoEasy](//forum)
+## [Mes améliorations](/amelioration/ameliorations.md)
+## [Forum sur la DiscoEasy](/amelioration/forum.md)
 ## [Ecran](/amelioration/ecran.md)
 ## [Dérouleur de filament](/amelioration/derouleur.md)
 ## [3DTouch](/amelioration/3dtouch.md)

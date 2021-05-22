@@ -1,3 +1,5 @@
+[retour](../README.md)  
+
 # Endstop (détecteur de butée)  
 Attention à la configuration de détecteur de butée:  
 - en configuration officielle Dagoma  
